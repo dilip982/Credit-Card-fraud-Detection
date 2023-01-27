@@ -1,7 +1,7 @@
 # Credit-Card-fraud-detection-system-using-Machine-Learning
-Detect Fraudulent Credit Card transactions using different Machine Learning models and compare performances
+Fraud detection is a challenging problem. The fact is that fraudulent transactions are rare; they represent a very small fraction of activity within an organization. The challenge is that a small percentage of activity can quickly turn into big dollar losses without the right tools and systems in place. Criminals are crafty. As traditional fraud schemes fail to pay off, fraudsters have learned to change their tactics. 
 
-In this notebook, I explore various Machine Learning models to detect fraudulent use of Credit cards. I compare each model performance and results. The best performance is achieved using SMOTE technique.
+In this notebook, I explore various Machine Learning models that can learn, adapt and uncover emerging patterns for preventing fraudulent use of Credit cards. I compare each model performance and results. The best performance is achieved using SMOTE technique.
 
 Please note that this approach can be transferred to other detection analysis in alternatrive domains. The feature extraction process remains similar and can be replicated on many other detection issues.
 
